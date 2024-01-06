@@ -1,8 +1,3 @@
-// Code your design here
-// Code your design here
-// Code your design here
-// Code your design here
-// Code your design here
 // Wire widths
 `define WORD_LEN 32
 `define REG_FILE_ADDR_LEN 5
